@@ -30,5 +30,4 @@ The model weights are intentionally not committed. First execution downloads the
 ## Results and resume claim
 The resume reports deployment in a therapist-office workflow, reducing visual-aid creation from ~15 minutes to under 5 seconds and supporting 50+ therapists. Those are **project-reported operational results** and are not fabricated by the included demo. This repo provides the implementation needed to benchmark latency on your hardware; returned responses include `latency_ms`.
 
-## Production extensions
-Add authenticated therapist accounts, object storage/CDN, asynchronous job queues for non-turbo models, audit logging, content moderation, encrypted prompt storage, and human review for clinical deployment.
+
